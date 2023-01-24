@@ -1,1 +1,4 @@
 # ML-PROJECT
+# 6 CORE
+# i5 CPU
+# 4GB RAM
